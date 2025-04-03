@@ -1,7 +1,7 @@
 {
-  "name": "mybithash-backend",
+  "name": "dssgreenhash-backend",
   "version": "1.0.0",
-  "description": "Backend for MyBitHash app",
+  "description": "Backend for DSS GreenHash app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
